@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="koksamlai_keycode">-2</string>
+    <integer name="koksamlai_keycode">-2</integer>
+
+    <string name="amaamniahum_keycode">-1</string>
+    <integer name="amaamniahum_keycode">-1</integer>
+
+    <string name="extensions_keycode">-4</string>
+    <integer name="extensions_keycode">-4</integer>
+
+</resources>

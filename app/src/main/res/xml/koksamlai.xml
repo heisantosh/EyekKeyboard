@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyWidth="10%p"
+    android:keyHeight="50dp">
+
+    <Row>
+        <Key android:codes="43968,44017" android:keyLabel="ꯀ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43969,44018" android:keyLabel="ꯁ"/>
+        <Key android:codes="43970,44019" android:keyLabel="ꯂ"/>
+        <Key android:codes="43971,44020" android:keyLabel="ꯃ"/>
+        <Key android:codes="43972,44021" android:keyLabel="ꯄ"/>
+        <Key android:codes="43973,44022" android:keyLabel="ꯅ"/>
+        <Key android:codes="43974,44023" android:keyLabel="ꯆ"/>
+        <Key android:codes="43975,44024" android:keyLabel="ꯇ"/>
+        <Key android:codes="43976,44025" android:keyLabel="ꯈ"/>
+        <Key android:codes="43977,44016" android:keyLabel="ꯉ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="43978" android:keyLabel="ꯊ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43979" android:keyLabel="ꯋ"/>
+        <Key android:codes="43980" android:keyLabel="ꯌ"/>
+        <Key android:codes="43981" android:keyLabel="ꯍ"/>
+        <Key android:codes="43982" android:keyLabel="ꯎ"/>
+        <Key android:codes="43983,44002" android:keyLabel="ꯏ"/>
+        <Key android:codes="43984" android:keyLabel="ꯐ"/>
+        <Key android:codes="43985" android:keyLabel="ꯑ"/>
+        <Key android:codes="43986,43992" android:keyLabel="ꯒ"/>
+        <Key android:codes="43987" android:keyLabel="ꯓ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="43988" android:keyLabel="ꯔ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43989,43994" android:keyLabel="ꯕ"/>
+        <Key android:codes="43980" android:keyLabel="ꯖ"/>
+        <Key android:codes="43981,43993" android:keyLabel="ꯗ"/>
+        <Key android:codes="44003" android:keyLabel="ꯣ"/>
+        <Key android:codes="44004" android:keyLabel="ꯤ"/>
+        <Key android:codes="44005" android:keyLabel=" ꯥ"/>
+        <Key android:codes="44006" android:keyLabel="ꯦ"/>
+        <Key android:codes="44007" android:keyLabel="ꯧ"/>
+        <Key android:codes="44008" android:keyLabel=" ꯨ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="43995" android:keyLabel="ꯛ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43996" android:keyLabel="ꯜ"/>
+        <Key android:codes="43997" android:keyLabel="ꯝ"/>
+        <Key android:codes="43998" android:keyLabel="ꯞ"/>
+        <Key android:codes="43999" android:keyLabel="ꯟ"/>
+        <Key android:codes="44000" android:keyLabel="ꯠ"/>
+        <Key android:codes="44001" android:keyLabel="ꯡ"/>
+        <Key android:codes="44009" android:keyLabel=" ꯩ"/>
+        <Key android:codes="44010" android:keyLabel="ꯪ"/>
+        <Key android:codes="8" android:keyIcon="@drawable/sym_keyboard_delete"
+            android:keyEdgeFlags="right" android:isRepeatable="true"/>
+    </Row>
+
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-1" android:iconPreview="@null" android:keyLabel="\?꯱꯲" android:keyEdgeFlags="left"/>
+        <Key android:codes="-4" android:iconPreview="@null" android:keyLabel="ꫲꫳꫣ"/>
+        <Key android:codes="44011" android:keyLabel="꯫"/>
+        <Key android:codes="44012" android:keyLabel="꯬"/>
+        <Key android:codes="32" android:keyWidth="30%p" android:keyIcon="@drawable/sym_keyboard_space"/>
+        <Key android:codes="46,44" android:keyLabel=", ."/>
+        <Key android:codes="44013" android:keyLabel=" ꯭"/>
+        <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyEdgeFlags="right"/>
+    </Row>
+
+</Keyboard>

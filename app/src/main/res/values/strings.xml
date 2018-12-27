@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eyek Keyboard</string>
+    <string name="eyek_ime">Eyek Keyboard</string>
+    <string name="subtype_mni_IN">Manipuri</string>
+
+    <string name="app_description">A virtual keyboard for typing in Meetei Mayek script.</string>
+    <string name="enable_instruction">Enable <b>Eyek Keyboard</b> from settings: Languages &amp; input -&gt; Keyboards &amp; inputs</string>
+    <string name="open_ime_settings">Open Input Settings</string>
+
+    <string name="author">created with &#128155; by Santosh Heigrujam</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyWidth="12.2%p"
+    android:keyHeight="50dp">
+    <Row>
+        <Key android:codes="43744" android:keyLabel="ꫠ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43745" android:keyLabel="ꫡ"/>
+        <Key android:codes="43746" android:keyLabel="ꫢ"/>
+        <Key android:codes="43747" android:keyLabel="ꫣ"/>
+        <Key android:codes="43748" android:keyLabel="ꫤ"/>
+        <Key android:codes="43749" android:keyLabel="ꫥ"/>
+        <Key android:codes="43740" android:keyLabel="ꫦ"/>
+        <Key android:codes="43741" android:keyLabel="ꫧ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="43752" android:keyLabel="ꫨ" android:keyEdgeFlags="left"/>
+        <Key android:codes="43753" android:keyLabel="ꫩ"/>
+        <Key android:codes="43754" android:keyLabel="ꫪ"/>
+        <Key android:codes="43755" android:keyLabel="ꫫ"/>
+        <Key android:codes="43756" android:keyLabel=" ꫬ"/>
+        <Key android:codes="43757" android:keyLabel=" ꫭ"/>
+        <Key android:codes="43758" android:keyLabel="ꫮ"/>
+        <Key android:codes="43759" android:keyLabel="ꫯ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="43760" android:keyLabel="꫰" android:keyEdgeFlags="left"/>
+        <Key android:codes="43761" android:keyLabel="꫱"/>
+        <Key android:codes="43762" android:keyLabel="ꫲ"/>
+        <Key android:codes="43763" android:keyLabel="ꫳ"/>
+        <Key android:codes="43764" android:keyLabel="ꫴ"/>
+        <Key android:codes="43765" android:keyLabel="ꫵ"/>
+        <Key android:codes="43766" android:keyLabel="꫶" />
+        <Key android:codes="8" android:keyIcon="@drawable/sym_keyboard_delete"
+            android:keyEdgeFlags="right" android:isRepeatable="true"/>
+    </Row>
+
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-1" android:iconPreview="@null" android:keyLabel="\?꯱꯲"
+            android:keyEdgeFlags="left"/>
+        <Key android:codes="-2" android:iconPreview="@null" android:keyLabel="ꯀꯁꯂ"/>
+        <Key android:codes="44011" android:keyLabel="꯫"/>
+        <Key android:codes="44012" android:keyLabel="꯬"/>
+        <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space"/>
+        <Key android:codes="46,44" android:keyLabel=", ."/>
+        <Key android:codes="44013" android:keyLabel=" ꯭"/>
+        <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return"
+            android:keyEdgeFlags="right"/>
+    </Row>
+
+</Keyboard>
