@@ -34,8 +34,7 @@
         <Key android:codes="43764" android:keyLabel="ꫴ"/>
         <Key android:codes="43765" android:keyLabel="ꫵ"/>
         <Key android:codes="43766" android:keyLabel="꫶" />
-        <Key android:codes="8" android:keyIcon="@drawable/sym_keyboard_delete"
-            android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:codes="8" android:keyLabel="DEL" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 
     <Row android:rowEdgeFlags="bottom">
@@ -44,11 +43,10 @@
         <Key android:codes="-2" android:iconPreview="@null" android:keyLabel="ꯀꯁꯂ"/>
         <Key android:codes="44011" android:keyLabel="꯫"/>
         <Key android:codes="44012" android:keyLabel="꯬"/>
-        <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space"/>
+        <Key android:codes="32" android:keyLabel="SPACE"/>
         <Key android:codes="46,44" android:keyLabel=", ."/>
         <Key android:codes="44013" android:keyLabel=" ꯭"/>
-        <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return"
-            android:keyEdgeFlags="right"/>
+        <Key android:codes="10" android:keyLabel="ENTER" android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>

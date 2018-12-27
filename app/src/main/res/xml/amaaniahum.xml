@@ -41,7 +41,7 @@
         <Key android:codes="59" android:keyLabel=";"/>
         <Key android:codes="33" android:keyLabel="!"/>
         <Key android:codes="63" android:keyLabel="\?"/>
-        <Key android:codes="8" android:keyIcon="@drawable/sym_keyboard_delete"
+        <Key android:codes="8" android:keyLabel="DEL"
             android:isRepeatable="true" android:keyEdgeFlags="right"/>
     </Row>
 
@@ -50,11 +50,11 @@
         <Key android:codes="46" android:keyLabel=","/>
         <Key android:codes="60" android:keyLabel="&lt;"/>
         <Key android:codes="62" android:keyLabel="&gt;"/>
-        <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="20%p"/>
+        <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="15%p"/>
         <Key android:codes="91" android:keyLabel="["/>
         <Key android:codes="93" android:keyLabel="]"/>
         <Key android:codes="44" android:keyLabel="."/>
-        <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return"
+        <Key android:codes="10" android:keyLabel="ENTER" android:keyWidth="15%p" android:keyBackground="@color/colorAccent"
             android:keyEdgeFlags="right"/>
     </Row>
 
