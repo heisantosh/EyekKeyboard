@@ -32,7 +32,7 @@
     </Row>
 
     <Row>
-        <Key android:codes="61" android:keyWidth="12%p" android:keyLabel="=" android:keyEdgeFlags="left"/>
+        <Key android:codes="61" android:keyLabel="=" android:keyEdgeFlags="left"/>
         <Key android:codes="92" android:keyLabel="\\"/>
         <Key android:codes="42" android:keyLabel="*"/>
         <Key android:codes="34" android:keyLabel="&quot;"/>
@@ -54,8 +54,7 @@
         <Key android:codes="91" android:keyLabel="["/>
         <Key android:codes="93" android:keyLabel="]"/>
         <Key android:codes="44" android:keyLabel="."/>
-        <Key android:codes="10" android:keyLabel="ENTER" android:keyWidth="15%p" android:keyBackground="@color/colorAccent"
-            android:keyEdgeFlags="right"/>
+        <Key android:codes="10" android:keyLabel="ENTER" android:keyWidth="15%p" android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>

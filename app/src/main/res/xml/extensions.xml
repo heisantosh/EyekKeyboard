@@ -2,7 +2,7 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
     android:horizontalGap="0px"
     android:verticalGap="0px"
-    android:keyWidth="12.2%p"
+    android:keyWidth="12.5%p"
     android:keyHeight="50dp">
     <Row>
         <Key android:codes="43744" android:keyLabel="ꫠ" android:keyEdgeFlags="left"/>
@@ -40,7 +40,7 @@
     <Row android:rowEdgeFlags="bottom">
         <Key android:codes="-1" android:iconPreview="@null" android:keyLabel="\?꯱꯲"
             android:keyEdgeFlags="left"/>
-        <Key android:codes="-2" android:iconPreview="@null" android:keyLabel="ꯀꯁꯂ"/>
+        <Key android:codes="-2" android:keyLabel="ꯀꯁꯂ"/>
         <Key android:codes="44011" android:keyLabel="꯫"/>
         <Key android:codes="44012" android:keyLabel="꯬"/>
         <Key android:codes="32" android:keyLabel="SPACE"/>
