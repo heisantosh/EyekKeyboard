@@ -34,7 +34,7 @@
         <Key android:codes="43764" android:keyLabel="ꫴ"/>
         <Key android:codes="43765" android:keyLabel="ꫵ"/>
         <Key android:codes="43766" android:keyLabel="꫶" />
-        <Key android:codes="8" android:keyLabel="DEL" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:codes="-5" android:keyLabel="DEL" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 
     <Row android:rowEdgeFlags="bottom">
