@@ -46,7 +46,7 @@
     </Row>
 
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="-2" android:keyLabel="ꯀꯁꯂ" android:keyEdgeFlags="left"/>
+        <Key android:codes="-10001" android:keyLabel="ꯀꯁꯂ" android:keyEdgeFlags="left"/>
         <Key android:codes="46" android:keyLabel=","/>
         <Key android:codes="60" android:keyLabel="&lt;"/>
         <Key android:codes="62" android:keyLabel="&gt;"/>
@@ -54,7 +54,7 @@
         <Key android:codes="91" android:keyLabel="["/>
         <Key android:codes="93" android:keyLabel="]"/>
         <Key android:codes="44" android:keyLabel="."/>
-        <Key android:codes="10" android:keyLabel="ENTER" android:keyWidth="15%p" android:keyEdgeFlags="right"/>
+        <Key android:codes="-4" android:keyLabel="DONE" android:keyWidth="15%p" android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>

@@ -38,15 +38,15 @@
     </Row>
 
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="-1" android:iconPreview="@null" android:keyLabel="\?꯱꯲"
+        <Key android:codes="-10002" android:iconPreview="@null" android:keyLabel="\?꯱꯲"
             android:keyEdgeFlags="left"/>
-        <Key android:codes="-2" android:keyLabel="ꯀꯁꯂ"/>
+        <Key android:codes="-10001" android:keyLabel="ꯀꯁꯂ"/>
         <Key android:codes="44011" android:keyLabel="꯫"/>
         <Key android:codes="44012" android:keyLabel="꯬"/>
         <Key android:codes="32" android:keyLabel="SPACE"/>
         <Key android:codes="46,44" android:keyLabel=", ."/>
         <Key android:codes="44013" android:keyLabel=" ꯭"/>
-        <Key android:codes="10" android:keyLabel="ENTER" android:keyEdgeFlags="right"/>
+        <Key android:codes="-4" android:keyLabel="DONE" android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>

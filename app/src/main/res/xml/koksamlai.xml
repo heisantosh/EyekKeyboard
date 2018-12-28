@@ -59,14 +59,14 @@
     </Row>
 
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="-1" android:iconPreview="@null" android:keyLabel="\?꯱꯲" android:keyEdgeFlags="left"/>
-        <Key android:codes="-4" android:iconPreview="@null" android:keyLabel="ꫲꫳꫣ"/>
+        <Key android:codes="-10002" android:iconPreview="@null" android:keyLabel="\?꯱꯲" android:keyEdgeFlags="left"/>
+        <Key android:codes="-10003" android:iconPreview="@null" android:keyLabel="ꫲꫳꫣ"/>
         <Key android:codes="44011" android:keyLabel="꯫"/>
         <Key android:codes="44012" android:keyLabel="꯬"/>
         <Key android:codes="32" android:keyWidth="25%p" android:keyLabel="SPACE"/>
         <Key android:codes="46,44" android:keyLabel=", ."/>
         <Key android:codes="44013" android:keyLabel=" ꯭"/>
-        <Key android:codes="10" android:keyWidth="15%p" android:keyLabel="ENTER" android:keyEdgeFlags="right"/>
+        <Key android:codes="-4" android:keyWidth="15%p" android:keyLabel="DONE" android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>
